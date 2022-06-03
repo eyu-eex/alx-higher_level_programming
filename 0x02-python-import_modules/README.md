@@ -1,1 +1,1 @@
-Project 3 for the python course 
+# 0x02. Python - import & modules
